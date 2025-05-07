@@ -131,11 +131,6 @@ python market_simulator.py
 7. Reduced Latency: Further optimize critical paths in hardware design
 8. Adaptive Strategies: Add AI-based adaptive strategy adjustments
 
-## Individual Contributions
-- **Jaideep**: UART RX and TX, Python-based Market Exchange Simulator
-- **Shubham**: Parser and Deparser modules
-- **Rakesh**: Order Book implementation
-- **Pavan**: Trading Algorithms Implementation
 
 ## License
 [MIT License](LICENSE)
